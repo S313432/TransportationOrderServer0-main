@@ -40,4 +40,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/S313432/ts:latest
+        tags: ghcr.io/s313432/ts:latest
